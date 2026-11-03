@@ -1,1 +1,1 @@
-# belajargit versi 1
+# belajargit versi 2
